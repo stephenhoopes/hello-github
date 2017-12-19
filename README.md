@@ -1,5 +1,5 @@
 # hello-github
-Ho to explain blockchain, ethereum, and cryptocurrencies to your mom. *hint...CryptoKitties
+How to explain blockchain, ethereum, and cryptocurrencies to your mom. *hint...CryptoKitties
 
 My passion for hard work and last-mile fulfillment started with my first job at age 12 as a local newspaper deliverer (i.e., a disposable book printed on paper, for those that aren't familiar). I now have 17+ years business experience with today's newspaper... the Internet.
 
